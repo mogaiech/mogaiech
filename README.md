@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohamed Gaiech
 
-## I'm a Software Engineer
+## I'm a Senior Software Engineer working with Java and Go
 
 ### Connect with me: [<img align="right" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
