@@ -1,8 +1,17 @@
-### Hi there, I'm Mohamed Gaiech
+# Hi there, I'm Mohamed Gaiech! 👋
+**Technical Delivery Lead**
+![Java](https://img.shields.io/badge/-Java-1f77b4?style=flat-square&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-1f77b4?style=flat-square&logo=go&logoColor=white)
+---
+### 🚀 About me
+- 🧑‍💻 I lead technical delivery and drive engineering excellence  
+- 💻 Passionate about Java, Go
+- 🔧 I love turning complex problems into digital solutions
 
-## I'm a Senior Software Engineer working with Java and Go
-
-### Connect with me: [<img align="right" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
+### 🤝 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Gaiech-1f77b4?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+---
 
 <!--<div align="center">
 
@@ -13,5 +22,3 @@
 </div>
 
 </div>-->
- 
-[linkedin]: https://www.linkedin.com/in/mohamedgaiech
