@@ -1,16 +1,15 @@
 # Hi there, I'm Mohamed Gaiech! 👋
 **Technical Delivery Lead**
-![Java](https://img.shields.io/badge/-Java-1f77b4?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-1f77b4?style=flat-square&logo=go&logoColor=white)
+
 ---
 ### 🚀 About me
 - 🧑‍💻 I lead technical delivery and drive engineering excellence  
-- 💻 Passionate about Java, Go
+- 💻 Passionate about ![Java](https://img.shields.io/badge/-Java-1f77b4?style=flat-square&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/-Go-1f77b4?style=flat-square&logo=go&logoColor=white)
 - 🔧 I love turning complex problems into digital solutions
 
 ---
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Gaiech-1f77b4?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Gaiech-1f77b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedgaiech/)
 ---
 
 <!--<div align="center">
