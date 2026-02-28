@@ -1,11 +1,11 @@
 # Hi there, I'm Mohamed Gaiech! 👋
-**Technical Delivery Lead**
+**Senior/Lead Software Engineer**
 
 ---
 ### 🚀 About me
-- 🧑‍💻 I lead technical delivery and drive engineering excellence  
-- 💻 Passionate about ![Java](https://img.shields.io/badge/-Java-1f77b4?style=flat-square&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/-Go-1f77b4?style=flat-square&logo=go&logoColor=white)
-- 🔧 I love turning complex problems into digital solutions
+- 🧑‍💻 Leading technical delivery and promoting engineering excellence
+- 💻 Building backend systems with ![Java](https://img.shields.io/badge/-Java-1f77b4?style=flat-square&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/-Go-1f77b4?style=flat-square&logo=go&logoColor=white)
+- 🔧 Turning complex problems into simple, scalable digital solutions
 
 ---
 ### 🤝 Connect with me
